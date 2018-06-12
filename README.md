@@ -1,7 +1,7 @@
 # keycloak-protocol-cas
 This plugin for Keycloak Identity and Access Management (http://www.keycloak.org) adds the CAS 3.0 SSO protocol as an available client protocol to the Keycloak system. It implements the required Service Provider Interfaces (SPIs) for a Login Protocol and will be picked up and made available by Keycloak automatically once installed.
 
-[![Build Status](https://travis-ci.org/Doccrazy/keycloak-protocol-cas.svg?branch=master)](https://travis-ci.org/Doccrazy/keycloak-protocol-cas)
+[![Build Status](https://travis-ci.org/esentino/keycloak-protocol-cas)](https://travis-ci.org/Doccrazy/keycloak-protocol-cas)
 
 ## Features
 The following CAS features are currently implemented:
